@@ -6,4 +6,4 @@ Domain Expertise - Data Sciences
 - Fairlearn
 
 # Notebook2 - Restaurants and Health Inspections
-![https://github.com/ashwinpn/Domain-Expertise---Data-Sciences/blob/main/assets/Manhattan_before.png]
+![](https://github.com/ashwinpn/Domain-Expertise---Data-Sciences/blob/main/assets/Manhattan_before.png)
